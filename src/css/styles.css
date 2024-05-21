@@ -20,6 +20,10 @@ body {
   margin: 0 auto;
 }
 
+.header {
+  display: none;
+}
+
 /*---------------*/
 /*--- loader --- */
 /*---------------*/
